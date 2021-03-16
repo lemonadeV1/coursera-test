@@ -4,33 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Menu for restaurant</title>
-<<<<<<< HEAD
-<style> 
-=======
 <style>
->>>>>>> c44a8c324256638a0949d2a06c421e36f94a0bda
 
 /********** Base styles **********/
 * {
   box-sizing: border-box;
 }
 h1 {
-<<<<<<< HEAD
-
-  margin-bottom: 70px;
-=======
   margin-bottom: 15px;
->>>>>>> c44a8c324256638a0949d2a06c421e36f94a0bda
 }
 
 
 
 p {
-<<<<<<< HEAD
-  border: 3px solid black;
-=======
   border: 1px solid black;
->>>>>>> c44a8c324256638a0949d2a06c421e36f94a0bda
   background-color: #A25A8A;
   width: 90%;
   height: 150px;
@@ -40,13 +27,6 @@ p {
   color: white;
 }
 
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> c44a8c324256638a0949d2a06c421e36f94a0bda
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
@@ -142,30 +122,6 @@ p {
 
 </style>
 </head>
-<<<<<<< HEAD
-<body style="background-color:beige;"> 
-<h1>Menu for restaurant</h1> 
-
-
-<div class="row">
-  <div class="col-lg-3 col-md-6"><p>Consider for a moment if the dreaded dinnertime conversation went like this: “what’s for dinner?” “Chicken breast.” “Chicken breasts for dinner? YAY!!!”. Well, we’ve rounded up our 60 best chicken breast recipes, all of which are pretty easy, and super delicious. Let’s dive in! Here are 60—yeah, that’s 6-0 easy chicken recipes—ideas for how to cook chicken breast that are anything but boring! </p> CHICKEN</div> 
-
-
-
-  <div class="col-lg-3 col-md-6"><p>Beef Recipes
-Beef stew, beef stroganoff, slow cooker pot roast: find the best beef recipes, including hundreds of ways to cook ground beef for tonight's dinner.</p> BEEF</div>
-
-
-
-  <div class="col-lg-3 col-md-6"><p>Homemade Sushi Homemade Sushi is so much cheaper than at the restaurant. Sushi is easy and fun to make at home, and you can put all your favorite ingredients into your perfect custom roll — here’s how!</p>SUSHI</div>
-
-
-
- 
-
-</body>
-</html>
-=======
 <body>
 <h1>Menu for restaurant</h1>
 
@@ -186,4 +142,3 @@ sushi is great tasting-
 
 </body>
 </html>
->>>>>>> c44a8c324256638a0949d2a06c421e36f94a0bda
